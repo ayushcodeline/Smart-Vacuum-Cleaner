@@ -19,16 +19,6 @@ An Arduino-based Smart Vacuum Cleaner designed to automate floor cleaning using 
 ## 🔹 Working Principle
 The robot continuously scans its path using ultrasonic sensors. When an obstacle is detected, it changes direction automatically. Users can also control the robot manually using Bluetooth.
 
-## 🔹 Applications
-- Home cleaning automation
-- Robotics learning projects
-- IoT and embedded systems demonstrations
-
-## 🔹 Future Enhancements
-- Mobile app with UI
-- Mapping and path planning
-- Dust collection efficiency improvement
-
 ## 🔹 Author
 Ayush Yalasangi  
 Electronics & Communication Engineering
